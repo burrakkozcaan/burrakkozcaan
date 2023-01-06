@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">‣  ✨ Creating bugs since 2019<br> ‣  📚 『 New programs 』<br> ‣  🎯 Goals: Research, Share and <br>    develop<br> ‣  🎲 Fun fact: and I ..🎧 some stuff</p>
+<p align="left">‣  ✨ Creating bugs since 2019<br> ‣  📚 『 New programs 』<br> ‣  🎯 Goals: Research, Share and <br> Develop<br> ‣  🎲 Fun fact: and I ..🎧 some stuff</p>
 
 ###
 
-<h2 align="left">I code with </h2>
+<h2 align="left">I'm working on these </h2>
 
 ###
 
